@@ -1,4 +1,4 @@
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Neto002&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto002&layout=compact&langs_count=4&theme=dracula&hide=cython,jupyter%20notebook,css,html,powershell,fortran" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Neto002&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto002&layout=compact&langs_count=4&theme=catppuccin_mocha&hide=cython,jupyter%20notebook,css,html,powershell,fortran" />
 </div>
